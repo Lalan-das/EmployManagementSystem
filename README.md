@@ -24,5 +24,4 @@ A modern and lightweight Employee Management System built with **React.js**, **V
 
 ---
 
-## 📦 Folder Structure
 
